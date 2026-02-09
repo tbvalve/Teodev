@@ -1,5 +1,5 @@
 # 💫 About Me:
-working on a externel c++ minecrafy cheat and a python bug bounty hunter
+working on a externel c++ minecraft cheat and a python bug hunter
 
 
 # 💻 Tech Stack:
